@@ -1,4 +1,4 @@
-/*custom font*/
+﻿/*custom font*/
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 /*basic reset*/
@@ -10,7 +10,7 @@ html {
 	
 	/*background = gradient + image pattern combo*/
 	background: 
-		linear-gradient(rgba(196, 102, 0, 0.6), rgba(155, 89, 182, 0.6));
+		rgb(63, 84, 191);
 }
 
 body {
@@ -57,7 +57,7 @@ body {
 	width: 100px;
 	background: #27AE60;
 	font-weight: bold;
-	color: white;
+	color: blue;
 	border: 0 none;
 	border-radius: 1px;
 	cursor: pointer;
