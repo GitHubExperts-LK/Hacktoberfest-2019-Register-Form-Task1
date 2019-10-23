@@ -15,6 +15,7 @@ html {
 
 body {
 	font-family: montserrat, arial, verdana;
+	background-color: #27AE60;
 }
 /*form styles*/
 #msform {
@@ -55,7 +56,7 @@ body {
 /*buttons*/
 #msform .action-button {
 	width: 100px;
-	background: #27AE60;
+	background: blue;
 	font-weight: bold;
 	color: white;
 	border: 0 none;
