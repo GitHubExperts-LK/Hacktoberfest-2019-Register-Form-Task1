@@ -14,6 +14,7 @@ html {
 }
 
 body {
+             background-color:#5DADE2;
 	font-family: montserrat, arial, verdana;
 }
 /*form styles*/
@@ -57,7 +58,7 @@ body {
 	width: 100px;
 	background: #27AE60;
 	font-weight: bold;
-	color: white;
+	color: blue;
 	border: 0 none;
 	border-radius: 1px;
 	cursor: pointer;
