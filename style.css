@@ -10,7 +10,7 @@ html {
 	
 	/*background = gradient + image pattern combo*/
 	background: 
-		linear-gradient(rgba(196, 102, 0, 0.6), rgba(155, 89, 182, 0.6));
+		linear-gradient(rgba(29, 221, 215, 0.6), rgba(224, 204, 20, 0.6));
 }
 
 body {
@@ -55,7 +55,7 @@ body {
 /*buttons*/
 #msform .action-button {
 	width: 100px;
-	background: #27AE60;
+	background: rgb(9, 48, 243);
 	font-weight: bold;
 	color: white;
 	border: 0 none;
